@@ -2,3 +2,5 @@
 src/minimal-api-demo/bin
 src/minimal-api-demo/obj
 src/minimal-api-demo/MinimalApiDemoDB.db
+src/minimal-api-demo/MinimalApiDemoDB.db-shm
+src/minimal-api-demo/MinimalApiDemoDB.db-wal
